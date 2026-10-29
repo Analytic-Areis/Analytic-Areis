@@ -260,12 +260,15 @@ System Highlights:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Analytic-Areis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FF&icon_color=00F2FF&text_color=94A3B8&bg_color=020c1b" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Analytic-Areis&theme=tokyonight&hide_border=true&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF&background=020C1B" width="49%"/>
+<img src="https://img.shields.io/badge/System%20Status-Online%20%2F%20Active-00f2ff?style=for-the-badge&logo=statuspage&labelColor=020c1b"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Public%20Repositories-12%20Active-34d399?style=for-the-badge&logo=git&labelColor=020c1b"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Tournament%20Record-232--0%20(100%25)-00f2ff?style=for-the-badge&logo=target&labelColor=020c1b"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analytic-Areis&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FF&text_color=94A3B8&bg_color=020c1b" width="58%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Analytic-Areis&theme=tokyonight&hide_border=true&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF&background=020C1B" width="62%"/>
 
 </div>
 
