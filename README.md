@@ -12,40 +12,42 @@
 
 <!-- Status Telemetry Badges -->
 <a href="https://www.iiit.ac.in/"><img src="https://img.shields.io/badge/Institution-IIIT%20Hyderabad-0a192f?style=for-the-badge&logo=google-classroom&logoColor=00f2ff&labelColor=020c1b"/></a>
-<a href="#-academic-metrics"><img src="https://img.shields.io/badge/CGPA-9.87%20%2F%2010.0-042f2e?style=for-the-badge&logo=target&logoColor=34d399&labelColor=020c1b"/></a>
+<img src="https://img.shields.io/badge/CGPA-9.87%20%2F%2010.0-042f2e?style=for-the-badge&logo=target&logoColor=34d399&labelColor=020c1b"/>
 <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0a192f?style=for-the-badge&logo=google-maps&logoColor=00f2ff&labelColor=020c1b"/>
 
 <br/><br/>
 
 <!-- Social Connection Gateway -->
-<a href="https://www.linkedin.com/in/bhargav-vemparala-b904293a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=020c1b"/></a>
-<a href="mailto:bhargav.vemparala@gmail.com"><img src="https://img.shields.io/badge/Personal%20Mail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=020c1b"/></a>
-<a href="mailto:lakshmisaibhargav.v@students.iiit.ac.in"><img src="https://img.shields.io/badge/Academic%20Mail-0284C7?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=020c1b"/></a>
-<a href="https://github.com/Analytic-Areis"><img src="https://img.shields.io/badge/GitHub-Analytic--Areis-1e293b?style=flat-square&logo=github&logoColor=00f2ff&labelColor=020c1b"/></a>
+<a href="https://www.linkedin.com/in/bhargav-vemparala-b904293a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020c1b"/></a>
+<a href="mailto:bhargav.vemparala@gmail.com"><img src="https://img.shields.io/badge/Personal%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020c1b"/></a>
+<a href="mailto:lakshmisaibhargav.v@students.iiit.ac.in"><img src="https://img.shields.io/badge/Academic%20Mail-0284C7?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=020c1b"/></a>
+<a href="https://github.com/Analytic-Areis"><img src="https://img.shields.io/badge/GitHub-Analytic--Areis-1e293b?style=for-the-badge&logo=github&logoColor=00f2ff&labelColor=020c1b"/></a>
 
 <br/><br/>
 
 <!-- Profile Telemetry Counter -->
-<img src="https://komarev.com/ghpvc/?username=Analytic-Areis&style=flat-square&color=00f2ff&labelColor=020c1b&label=System+Transmissions"/>
-<img src="https://img.shields.io/github/followers/Analytic-Areis?style=flat-square&color=38bdf8&labelColor=020c1b&label=Network"/>
-<img src="https://img.shields.io/github/stars/Analytic-Areis?style=flat-square&color=34d399&labelColor=020c1b&label=Starred+Repositories"/>
+<img src="https://komarev.com/ghpvc/?username=Analytic-Areis&style=flat-square&color=00f2ff&labelColor=020c1b&label=Profile+Views"/>
+<img src="https://img.shields.io/github/followers/Analytic-Areis?style=flat-square&color=38bdf8&labelColor=020c1b&label=Followers"/>
+<img src="https://img.shields.io/github/stars/Analytic-Areis?style=flat-square&color=34d399&labelColor=020c1b&label=Stars"/>
 
 </div>
 
 ---
 
-### 📡 System Telemetry & Operator Profile
+### 📡 About Me
 
-```ansi
-[1;36m┌── [ TELEMETRY // OPERATOR SPECIFICATION ] ────────────────────────────────────────┐[0m
-[1;36m│[0m  [1;37mOPERATOR[0m     : Lakshmi Sai Bhargav Vemparala (Analytic-Areis)                   [1;36m│[0m
-[1;36m│[0m  [1;37mACADEMICS[0m    : B.Tech in Electronics & Communication Engineering (ECE)          [1;36m│[0m
-[1;36m│[0m  [1;37mCAMPUS[0m       : International Institute of Information Technology, Hyderabad     [1;36m│[0m
-[1;36m│[0m  [1;37mPERFORMANCE[0m  : [1;32m9.87 / 10.0 CGPA[0m                                                  [1;36m│[0m
-[1;36m│[0m  [1;37mDOMAINS[0m      : Silicon Datapaths · Adversarial Game AI · Quantum State Physics  [1;36m│[0m
-[1;36m│[0m  [1;37mCORE DIRECTIVE[0m: "Transforming high-order mathematical theory into sub-millisecond  [1;36m│[0m
-[1;36m│[0m                 deterministic real-world execution."                             [1;36m│[0m
-[1;36m└─── [ TRANSMISSION ACTIVE ] ────────────────────────────────────────────────────────┘[0m
+```yaml
+operator: "Lakshmi Sai Bhargav Vemparala"
+handle: "Analytic-Areis"
+institution: "International Institute of Information Technology, Hyderabad (IIIT-H)"
+degree: "B.Tech in Electronics & Communication Engineering (ECE)"
+academic_standing: "9.87 / 10.0 CGPA"
+focus_domains:
+  - "Digital Silicon & SIMD Arithmetic Datapaths"
+  - "Autonomous Game AI & Adversarial Heuristics"
+  - "Quantum Statevector Physics & Simulation"
+  - "RF Communications & Digital Signal Processing"
+directive: "Transforming high-order mathematical theory into sub-millisecond deterministic real-world execution."
 ```
 
 I am an **Electronics & Communication Engineering** undergraduate at **IIIT Hyderabad**. My engineering identity sits squarely at the convergence of three foundational pillars:
@@ -74,7 +76,7 @@ I focus on **first-principles architecture**, rigorous statistical benchmarking,
 <td width="50%" valign="top">
 
 #### 💾 Silicon & Digital Hardware Systems
-- **SIMD Arithmetic Architectures**: High-throughput vectorized Carry Lookahead Adders with $O(\log n)$ carry delay.
+- **SIMD Arithmetic Architectures**: High-throughput vectorized Carry Lookahead Adders with O(log n) carry delay.
 - **RTL & Digital Logic Design**: Verilog modeling, pipeline hazard mitigation, parallel-prefix tree synthesis.
 - **RF & Signal Demodulation**: Quadrature down-conversion (I/Q demodulation), digital filtering, anti-aliasing.
 - **Non-Linear Systems & Control**: Underactuated Acrobot robotic dynamics, Hamiltonian energy-pumping, and LQR stabilization.
