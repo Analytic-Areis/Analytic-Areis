@@ -1,77 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,35:1e1035,70:3b1366,100:0d2040&height=280&section=header&text=Bhargav%20Vemparala&fontSize=56&fontColor=C9B6FF&animation=fadeIn&fontAlignY=38&desc=ECE%20%40%20IIIT%20Hyderabad%20%7C%20AI%20%26%20RL%20%7C%20Quantum%20Computing%20%7C%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<!-- Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020c1b,35:0a192f,70:004b5c,100:00f2ff&height=280&section=header&text=Bhargav%20Vemparala&fontSize=56&fontColor=00F2FF&animation=fadeIn&fontAlignY=38&desc=ECE%20%40%20IIIT%20Hyderabad%20%E2%80%94%20Silicon%20%7C%20Autonomous%20AI%20%7C%20Quantum%20Logic&descAlignY=55&descSize=18&descColor=A5F3FC" width="100%"/>
 
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=720&lines=Electronics+%26+Communication+Engineering+%40+IIIT+Hyderabad;Autonomous+Game+AI+%26+Reinforcement+Learning;Quantum+Computing+%26+Quantum+State+Simulation;VLSI+Design%2C+Digital+Logic+%26+SIMD+Architectures;Bridging+Silicon%2C+Machine+Intelligence+%26+Quantum+Theory" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=00F2FF&center=true&vCenter=true&width=760&lines=Electronics+%26+Communication+Engineering+%40+IIIT+Hyderabad;CGPA%3A+9.87+%2F+10.0+%E2%80%94+Systems%2C+Hardware+%26+AI;Architect+of+Model+28%3A+100%25+Win+Rate+Generals.io+Champion;Quantum+Statevector+Simulation+%26+Algorithmic+Physics;Low-Latency+SIMD+Datapaths+%26+Parallel-Prefix+Logic;Translating+Theoretical+Rigor+into+Sub-Millisecond+Execution" alt="Typing Telemetry" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-ECE%20%40%20IIIT%20Hyderabad-6D28D9?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/CGPA-10.0%20%2F%2010.0-059669?style=flat-square&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-Hyderabad%2C%20India-4C1D95?style=flat-square&labelColor=1a1a2e"/>
+<!-- Status Telemetry Badges -->
+<a href="https://www.iiit.ac.in/"><img src="https://img.shields.io/badge/Institution-IIIT%20Hyderabad-0a192f?style=for-the-badge&logo=google-classroom&logoColor=00f2ff&labelColor=020c1b"/></a>
+<a href="#-academic-metrics"><img src="https://img.shields.io/badge/CGPA-9.87%20%2F%2010.0-042f2e?style=for-the-badge&logo=target&logoColor=34d399&labelColor=020c1b"/></a>
+<img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0a192f?style=for-the-badge&logo=google-maps&logoColor=00f2ff&labelColor=020c1b"/>
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/bhargav-vemparala-b904293a0/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:bhargav.vemparala@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:lakshmisaibhargav.v@students.iiit.ac.in"><img src="https://img.shields.io/badge/Academic%20Mail-0284C7?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/Analytic-Areis"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<!-- Social Connection Gateway -->
+<a href="https://www.linkedin.com/in/bhargav-vemparala-b904293a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=020c1b"/></a>
+<a href="mailto:bhargav.vemparala@gmail.com"><img src="https://img.shields.io/badge/Personal%20Mail-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=020c1b"/></a>
+<a href="mailto:lakshmisaibhargav.v@students.iiit.ac.in"><img src="https://img.shields.io/badge/Academic%20Mail-0284C7?style=flat-square&logo=microsoft-outlook&logoColor=white&labelColor=020c1b"/></a>
+<a href="https://github.com/Analytic-Areis"><img src="https://img.shields.io/badge/GitHub-Analytic--Areis-1e293b?style=flat-square&logo=github&logoColor=00f2ff&labelColor=020c1b"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Analytic-Areis&style=flat-square&color=8b5cf6&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/Analytic-Areis?style=flat-square&color=7c3aed&labelColor=1a1a2e&label=Followers"/>
-<img src="https://img.shields.io/github/stars/Analytic-Areis?style=flat-square&color=6d28d9&labelColor=1a1a2e&label=Stars"/>
+<!-- Profile Telemetry Counter -->
+<img src="https://komarev.com/ghpvc/?username=Analytic-Areis&style=flat-square&color=00f2ff&labelColor=020c1b&label=System+Transmissions"/>
+<img src="https://img.shields.io/github/followers/Analytic-Areis?style=flat-square&color=38bdf8&labelColor=020c1b&label=Network"/>
+<img src="https://img.shields.io/github/stars/Analytic-Areis?style=flat-square&color=34d399&labelColor=020c1b&label=Starred+Repositories"/>
 
 </div>
 
-<br/>
+---
+
+### 📡 System Telemetry & Operator Profile
+
+```ansi
+[1;36m┌── [ TELEMETRY // OPERATOR SPECIFICATION ] ────────────────────────────────────────┐[0m
+[1;36m│[0m  [1;37mOPERATOR[0m     : Lakshmi Sai Bhargav Vemparala (Analytic-Areis)                   [1;36m│[0m
+[1;36m│[0m  [1;37mACADEMICS[0m    : B.Tech in Electronics & Communication Engineering (ECE)          [1;36m│[0m
+[1;36m│[0m  [1;37mCAMPUS[0m       : International Institute of Information Technology, Hyderabad     [1;36m│[0m
+[1;36m│[0m  [1;37mPERFORMANCE[0m  : [1;32m9.87 / 10.0 CGPA[0m                                                  [1;36m│[0m
+[1;36m│[0m  [1;37mDOMAINS[0m      : Silicon Datapaths · Adversarial Game AI · Quantum State Physics  [1;36m│[0m
+[1;36m│[0m  [1;37mCORE DIRECTIVE[0m: "Transforming high-order mathematical theory into sub-millisecond  [1;36m│[0m
+[1;36m│[0m                 deterministic real-world execution."                             [1;36m│[0m
+[1;36m└─── [ TRANSMISSION ACTIVE ] ────────────────────────────────────────────────────────┘[0m
+```
+
+I am an **Electronics & Communication Engineering** undergraduate at **IIIT Hyderabad**. My engineering identity sits squarely at the convergence of three foundational pillars:
+
+1. **Digital Silicon & Hardware Datapaths**: High-speed arithmetic units, parallel-prefix SIMD architectures, and low-latency digital logic.
+2. **Autonomous Game AI & Algorithmic Search**: Game-theoretic equilibria, Bayesian belief modeling under fog of war, and pure-Python bounded neural heuristics.
+3. **Quantum Computing & Computational Physics**: Multi-qubit entanglement dynamics, Hamiltonian state evolution, and quantum circuit modeling.
+
+I focus on **first-principles architecture**, rigorous statistical benchmarking, and constructing software and hardware systems that remain resilient under strict competitive, computational, and physical limits.
 
 ---
 
-## About Me
-
-```yaml
-name: "Lakshmi Sai Bhargav Vemparala"
-handle: "Analytic-Areis"
-institution: "IIIT Hyderabad"
-degree: "B.Tech, Electronics & Communication Engineering"
-academic_standing: "10.0 / 10.0 CGPA"
-focus:
-  - Autonomous Game AI & Reinforcement Learning
-  - Quantum Computing & Circuit Simulation
-  - VLSI Design & Digital Hardware Systems
-  - Signal Processing & RF Communication
-philosophy: "Engineering at the convergence of silicon reality, computational physics, and intelligent algorithmic agents."
-```
-
-I am an Electronics & Communication Engineering student at **IIIT Hyderabad** passionate about building at the frontier where **digital hardware, quantum computing, and autonomous AI systems** intersect. My work spans high-throughput SIMD arithmetic architectures, RF communications, underactuated robotics control, and tournament-winning competitive game AI driven by game theory, Bayesian belief tracking, and neural value networks.
-
-I approach engineering with **first-principles thinking, rigorous empirical benchmarking, and mathematical discipline** — translating theoretical concepts into low-latency, real-world systems.
+### 🔬 Core Competency Vectors
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Interests & Research
-
-- **Game AI & Reinforcement Learning**: Bayesian search, DAG army flow funnels, MCTS, and bounded neural heads
-- **Quantum Computing**: Statevector simulation, quantum circuit algorithms, multi-qubit entanglement
-- **VLSI & Digital Logic**: SIMD architectures, parallel prefix adders, ASIC/FPGA digital design
-- **Signal Processing & RF**: Quadrature down-conversion, I/Q demodulation, adaptive filtering
-- **Non-Linear Control & Robotics**: Underactuated dynamics, trajectory optimization, LQR balancing
+#### ⚡ Autonomous AI & Heuristic Search
+- **Bayesian Belief Tracking**: Probabilistic spawn-candidate estimation under partial observability & incomplete information.
+- **Dynamic Army Flow Optimization**: Multi-source reverse-BFS Directed Acyclic Graphs (DAG) routing high-density force funnels.
+- **Bounded Neural Heads**: Additive pure-Python feedforward value heads clamped to prevent safety override blunders.
+- **Adversarial Opponent Modeling**: Online classification of opponent archetypes (Rush, Turtle, Boom, Consolidator).
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Open To
+#### 💾 Silicon & Digital Hardware Systems
+- **SIMD Arithmetic Architectures**: High-throughput vectorized Carry Lookahead Adders with $O(\log n)$ carry delay.
+- **RTL & Digital Logic Design**: Verilog modeling, pipeline hazard mitigation, parallel-prefix tree synthesis.
+- **RF & Signal Demodulation**: Quadrature down-conversion (I/Q demodulation), digital filtering, anti-aliasing.
+- **Non-Linear Systems & Control**: Underactuated Acrobot robotic dynamics, Hamiltonian energy-pumping, and LQR stabilization.
 
-- 🔬 Research Internships in AI, Quantum Computing & Systems
-- 💻 Hardware / Software Co-Design & Toolchain Roles
-- ⚡ High-Performance Computing & Digital Architecture Projects
-- 🌐 Open Source Collaboration on Competitive AI & Scientific Tools
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚛️ Quantum Information & Physics
+- **Quantum Statevector Simulation**: Multi-qubit state space evolution and tensor-product transformations.
+- **Entanglement & Circuit Synthesis**: Unitary operator modeling, Pauli/Hadamard/CNOT gates, measurement collapse.
+- **Variational Algorithms**: Algorithmic exploration of VQE and QAOA quantum-classical hybrid optimizations.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 Open Collaborations & Engagements
+- **Research Internships**: Hardware/Software Co-Design, Edge AI, Quantum Computing, and Autonomous Decision Systems.
+- **Engineering Roles**: High-Performance Computing, Digital IC Design, Systems Toolchains, and Scientific Simulation.
+- **Adversarial Tournaments**: Competitive AI hackathons and strategic algorithmic game design.
 
 </td>
 </tr>
@@ -79,220 +103,216 @@ I approach engineering with **first-principles thinking, rigorous empirical benc
 
 ---
 
+### 🛠️ Hardware, Systems & Software Stack
+
 <div align="center">
 
-### Tech Stack
+| Domain | Technologies & Tooling |
+|:---|:---|
+| **Low-Level & Hardware** | `Verilog` `C` `C++` `SIMD Datapaths` `Digital Logic Design` `FPGA/ASIC Architectures` |
+| **High-Performance & Scientific** | `Python 3.12` `MATLAB` `NumPy` `Linear Algebra` `Differential Equations` `DSP` |
+| **Autonomous AI & Algorithms** | `Graph Theory` `Bayesian Inference` `Game Theory (Nash/Blotto)` `Heuristic Beam Search` `RL` |
+| **Systems & Toolchain** | `Linux / POSIX` `Bash Shell` `Git / GitHub` `CMake` `LaTeX` `GDB` `Valgrind` |
+| **Interface & Visualization** | `React` `Tailwind CSS` `Framer Motion` `Interactive Terminal CLIs` |
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,rust,verilog,matlab,bash,linux,git,react,tailwind,latex&theme=dark"/>
+<br/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,verilog,matlab,bash,linux,git,react,tailwind,latex&theme=dark"/>
 
 </div>
 
 ---
 
-## Featured Projects
+### 🏆 Featured Research & Engineering Systems
 
 <details open>
-<summary><b>Code Bot</b> — Generals.io Hackathon Champion Autonomous AI</summary>
+<summary><b>01 // Code Bot — Generals.io Autonomous Champion AI</b> <i>[100.0% Win Rate · 232 Games]</i></summary>
 <br/>
 
-An autonomous game AI engineered for the Generals.io turn-based strategy game under strict tournament constraints (pure Python 3.12 standard library, $\le 150\text{ ms}$ latency budget). Features multi-source DAG frontline funnels, threat-proximity urgent pullback defense, Bayesian enemy general tracking under fog of war, online opponent archetype modeling, and a pure-Python bounded neural value head.
+An autonomous game AI engineered for the turn-based strategy game Generals.io under uncompromising competition constraints (pure Python standard library only, $\le 150\text{ ms}$ latency budget, zero external dependencies).
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python 3.12 (Standard Library Only), Pure-Python Neural Net, Graph Theory |
-| **Scale** | 8-Tier hybrid decision architecture, 27 model iterations |
-| **Performance** | **100.0% Win Rate** (232/232 wins across 26 historical models); **0.74 ms mean latency** ($29\times$ under limit) |
-| **Impact** | Champion hackathon submission with complete IEEE-formatted empirical research paper |
-| **Repository** | [Analytic-Areis/code_bot](https://github.com/Analytic-Areis/code_bot) |
+```
+System Highlights:
+• 8-Tier Hybrid Pipeline: Tactical reflexes → DAG frontline funnels → Bayesian general tracking → Bounded neural head
+• 1-Ply Forward Simulation: Complete combat outcome modeling and counter-attack threat exposure verification
+• Empirical Benchmark: 232 W / 0 L / 0 D (100.0% Win Rate) across all 26 historical models on diverse paired seeds
+• Decision Latency: Mean = 0.74 ms, P99 = 1.32 ms, Max = 5.12 ms (29.3x under competition ceiling)
+• Publication: Complete IEEE-format conference paper with formal proofs and ablation analysis
+```
 
-Combines game-theoretic guarantees with 1-ply forward combat simulation and online opponent classification (Rush, Turtle, Boom, Consolidator).
+- **Repository**: [`Analytic-Areis/code_bot`](https://github.com/Analytic-Areis/code_bot)
+- **Stack**: Pure Python 3.12, Neural Value Heads, Directed Acyclic Graph Routing, Bayesian Search
 
 </details>
 
 <details>
-<summary><b>Qbit-Roll</b> — Quantum Computing Simulation & State Visualization</summary>
+<summary><b>02 // Qbit-Roll — Quantum Statevector & Circuit Simulation Engine</b></summary>
 <br/>
 
-An interactive quantum computing simulation suite for modeling quantum state evolution, single/multi-qubit gates, and quantum circuit analysis.
+An interactive quantum computing simulation suite for modeling multi-qubit state space evolution, quantum gate applications, and measurement collapse dynamics.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Quantum Computing, Linear Algebra, Simulation |
-| **Scale** | Multi-qubit statevector evolution and entanglement modeling |
-| **Performance** | Matrix-operator transformations and circuit fidelity tracking |
-| **Impact** | Educational and research platform for quantum logic and computational physics |
-| **Repository** | [Analytic-Areis/Qbit-Roll](https://github.com/Analytic-Areis/Qbit-Roll) |
+```
+System Highlights:
+• State Representation: Tensor-product statevector evolution with arbitrary N-qubit Hilbert space modeling
+• Gate Operations: Pauli-X/Y/Z, Hadamard, Phase, Controlled-NOT (CNOT), and parameterized rotation gates
+• Measurement Engine: Born rule probabilistic wave-function collapse and density matrix projection
+• Applications: Quantum teleportation protocol modeling, Bell state generation, and entanglement verification
+```
 
-Implements quantum state representation, unitary operator simulation, Pauli/Hadamard/CNOT gates, and quantum measurement collapse mechanics.
+- **Repository**: [`Analytic-Areis/Qbit-Roll`](https://github.com/Analytic-Areis/Qbit-Roll)
+- **Stack**: Python, Quantum Computing, Linear Algebra, Matrix Mechanics
 
 </details>
 
 <details>
-<summary><b>SIMD CLA Adder</b> — High-Performance Digital Hardware Arithmetic</summary>
+<summary><b>03 // SIMD-CLA-Adder — High-Performance Digital Arithmetic Datapath</b></summary>
 <br/>
 
-A SIMD-accelerated Carry Lookahead Adder (CLA) designed to investigate high-throughput parallel prefix computation and hardware trade-offs in modern arithmetic logic units.
+A SIMD-accelerated Carry Lookahead Adder (CLA) in Verilog designed to investigate parallel-prefix computation and trade-offs in modern digital processor ALUs.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Verilog, Digital Logic, SIMD Architectures, Computer Organization |
-| **Scale** | Vectorized carry generate/propagate tree architecture |
-| **Performance** | Logarithmic $O(\log n)$ carry propagation latency |
-| **Impact** | Hardware-level latency and area optimization in digital datapaths |
-| **Repository** | [Analytic-Areis/simd-cla-adder](https://github.com/Analytic-Areis/simd-cla-adder) |
+```
+System Highlights:
+• Architecture: Vectorized generate/propagate tree with logarithmic O(log n) carry delay
+• Critical Path Optimization: Area-delay-power trade-off characterization against ripple-carry baselines
+• Synthesis: Modular RTL with exhaustive testbench verification covering signed/unsigned edge-case overflows
+```
 
-Demonstrates parallel prefix carry computation, critical path minimization, and area-delay-power trade-offs in digital IC design.
+- **Repository**: [`Analytic-Areis/simd-cla-adder`](https://github.com/Analytic-Areis/simd-cla-adder)
+- **Stack**: Verilog, Digital Logic, SIMD Datapaths, Computer Architecture
 
 </details>
 
 <details>
-<summary><b>Acrobot Control</b> — Underactuated Robotics & Non-Linear Control</summary>
+<summary><b>04 // Acrobot-Control — Underactuated Robotics & Non-Linear Trajectory Optimization</b></summary>
 <br/>
 
 A non-linear control and reinforcement learning simulation pipeline for the classic two-link underactuated Acrobot robotic system.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Optimal Control, Reinforcement Learning, Numerical Dynamics |
-| **Scale** | Multi-phase trajectory planning and swing-up controller |
-| **Performance** | Seamless transition from non-linear energy pumping to LQR upright stabilization |
-| **Impact** | Robust underactuated robotic manipulation and control benchmark |
-| **Repository** | [Analytic-Areis/acrobot-control](https://github.com/Analytic-Areis/acrobot-control) |
+```
+System Highlights:
+• Dynamics: Non-linear equations of motion formulation via Lagrangian analytical mechanics
+• Phase 1: Hamiltonian energy-shaping controller for underactuated double-pendulum swing-up
+• Phase 2: Linear Quadratic Regulator (LQR) terminal controller capturing the inverted equilibrium basin
+```
 
-Explores non-linear equations of motion, Hamiltonian energy shaping for underactuated swing-up, and linear quadratic regulator (LQR) terminal basin capture.
-
-</details>
-
-<details>
-<summary><b>Quadrature Down-Converter</b> — RF & Digital Signal Processing System</summary>
-<br/>
-
-A digital signal processing and RF communication system implementing quadrature down-conversion, I/Q signal demodulation, and multi-stage filtering.
-
-| Attribute | Details |
-|---|---|
-| **Stack** | MATLAB, DSP, RF Communication, Filter Design |
-| **Scale** | Complete I/Q channelization and demodulation pipeline |
-| **Performance** | High image rejection and low passband distortion |
-| **Impact** | Applied communication systems and software-defined radio foundations |
-| **Repository** | [Analytic-Areis/Quadrature-Down-Converter](https://github.com/Analytic-Areis/Quadrature-Down-Converter) |
-
-Covers local oscillator carrier mixing, complex baseband signal reconstruction, anti-aliasing decimation, and spectral characterization.
+- **Repository**: [`Analytic-Areis/acrobot-control`](https://github.com/Analytic-Areis/acrobot-control)
+- **Stack**: Python, Non-linear Control, Lagrangian Dynamics, LQR Optimization
 
 </details>
 
 <details>
-<summary><b>C_Unplugged_CLI</b> — Terminal-Based Systems Engine & Educational Tool</summary>
+<summary><b>05 // Quadrature-Down-Converter — RF Communication & DSP Channelizer</b></summary>
 <br/>
 
-An interactive terminal CLI platform built in C designed to demystify low-level memory layout, pointer arithmetic, stack frames, and systems programming.
+A digital signal processing system implementing quadrature down-conversion, I/Q demodulation, and multi-stage bandpass decimation.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | C, Unix Systems Programming, Terminal UI, Memory Architecture |
-| **Scale** | Modular CLI engine with dynamic execution and visualization |
-| **Performance** | Zero-overhead direct native memory introspection |
-| **Impact** | Interactive educational tool for understanding systems-level C fundamentals |
-| **Repository** | [Analytic-Areis/C_Unplugged_CLI](https://github.com/Analytic-Areis/C_Unplugged_CLI) |
+```
+System Highlights:
+• DSP Engine: Complex carrier mixing using quadrature local oscillators (cos / sin)
+• Filtering: High image-rejection anti-aliasing FIR filter design with minimal passband ripple
+• Verification: Comprehensive frequency-spectrum characterization, constellation diagrams, and SNR metrics
+```
 
-Features intuitive command-line workflows, memory allocation sandboxing, and interactive pointer dereference demonstrations.
+- **Repository**: [`Analytic-Areis/Quadrature-Down-Converter`](https://github.com/Analytic-Areis/Quadrature-Down-Converter)
+- **Stack**: MATLAB, Digital Signal Processing, RF Communications, Filter Synthesis
 
 </details>
 
 <details>
-<summary><b>Poker Sim</b> — Game-Theoretic Monte Carlo Simulation</summary>
+<summary><b>06 // C_Unplugged_CLI — Interactive Native Systems Introspection Engine</b></summary>
 <br/>
 
-A game-theoretic simulation platform exploring imperfect information games, hand equity distributions, range modeling, and regret minimization strategies.
+A modular terminal-based educational tool built in C to interactively visualize pointer arithmetic, call stacks, virtual memory segments, and heap structures.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, Game Theory, Monte Carlo Simulation, Statistics |
-| **Scale** | Multi-player range and equity evaluation engine |
-| **Performance** | Fast parallelized showdown rollouts and pot odds calculations |
-| **Impact** | Decision-theoretic research into optimal play under partial observability |
-| **Repository** | [Analytic-Areis/poker_sim](https://github.com/Analytic-Areis/poker_sim) |
+```
+System Highlights:
+• Memory Inspection: Real-time visualization of stack frame allocation, pointer dereferencing, and endianness
+• Architecture: Zero-overhead native CLI designed for systems-level C pedagogy
+```
 
-Analyzes optimal betting dynamics, risk-neutral equity bounds, and counterfactual reasoning under hidden information.
+- **Repository**: [`Analytic-Areis/C_Unplugged_CLI`](https://github.com/Analytic-Areis/C_Unplugged_CLI)
+- **Stack**: C, POSIX Systems Programming, Virtual Memory, Terminal Interfaces
 
 </details>
 
 <details>
-<summary><b>Posture Detector</b> — Real-Time Computer Vision & Ergonomics</summary>
+<summary><b>07 // Poker-Sim — Game-Theoretic Monte Carlo Decision Platform</b></summary>
 <br/>
 
-A computer vision pipeline leveraging deep learning pose estimation to detect ergonomic posture deviations and stream real-time feedback.
+A game-theoretic poker engine evaluating imperfect information, hand range distributions, pot odds, and Counterfactual Regret Minimization (CFR) concepts.
 
-| Attribute | Details |
-|---|---|
-| **Stack** | Python, OpenCV, MediaPipe, Deep Learning |
-| **Scale** | Real-time video processing and skeletal landmark geometric analysis |
-| **Performance** | High-framerate edge inference with adaptive angular thresholds |
-| **Impact** | Non-invasive health and ergonomics monitoring system |
-| **Repository** | [Analytic-Areis/Posture_detector](https://github.com/Analytic-Areis/Posture_detector) |
+```
+System Highlights:
+• Simulation: High-throughput Monte Carlo showdown rollouts computing exact pre-flop and post-flop equities
+• Decision Engine: Explores risk-neutral betting dynamics and equilibrium play under hidden cards
+```
 
-Performs geometric landmark vector analysis on spinal curvature, neck tilt, and shoulder symmetry to deliver instant feedback.
+- **Repository**: [`Analytic-Areis/poker_sim`](https://github.com/Analytic-Areis/poker_sim)
+- **Stack**: Python, Game Theory, Monte Carlo Methods, Stochastic Decision Processes
 
 </details>
 
 ---
 
-## GitHub Analytics
+### 📊 Activity & Telemetry Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Analytic-Areis&show_icons=true&theme=radical&hide_border=true&title_color=00F2FF&icon_color=A78BFA&text_color=E2E8F0&bg_color=0f0c29" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Analytic-Areis&theme=radical&hide_border=true&stroke=00F2FF&ring=A78BFA&fire=00F2FF&currStreakLabel=00F2FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Analytic-Areis&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FF&icon_color=00F2FF&text_color=94A3B8&bg_color=020c1b" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Analytic-Areis&theme=tokyonight&hide_border=true&stroke=00F2FF&ring=00F2FF&fire=00F2FF&currStreakLabel=00F2FF&background=020C1B" width="49%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analytic-Areis&layout=compact&theme=radical&hide_border=true&title_color=00F2FF&text_color=E2E8F0&bg_color=0f0c29" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Analytic-Areis&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FF&text_color=94A3B8&bg_color=020c1b" width="58%"/>
 
 </div>
 
 ---
 
-## Current Focus
+### 🎯 Active Research Frontiers & Objectives
 
 ```yaml
-learning:
-  - Advanced Quantum Information Theory & Error Correction
-  - Distributed Multi-Agent Reinforcement Learning (MARL)
-  - Custom Hardware Accelerators & High-Level Synthesis (HLS)
+investigating:
+  - Scalable Quantum Error Correction (QEC) on Surface Codes
+  - Distributed Multi-Agent Reinforcement Learning in Non-Stationary Games
+  - Custom Low-Power Hardware Accelerators for High-Level Synthesis (HLS)
 
-building:
-  - Next-Gen Game AI with Monte Carlo Tree Search & Deep Value Heads
-  - Hardware-level SIMD Matrix Arithmetic Units
+engineering:
+  - Next-Generation Game-Tree Search with MCTS & Dynamic Transposition Tables
+  - Pipelined SIMD Matrix Arithmetic Units for Scientific Computing
 
 exploring:
-  - Neuromorphic Computing & Spiking Neural Networks
-  - Quantum-Classical Hybrid Algorithms (VQE, QAOA)
+  - Neuromorphic Computing & Spike-Timing Dependent Plasticity (STDP)
+  - Variational Quantum Eigensolver (VQE) Molecular Ground State Simulations
 
-open_to:
-  - AI & Robotics Research Internships
-  - Quantum Computing & Hardware Engineering Collaborations
-  - Systems & Competitive AI Hackathons
+available_for:
+  - Advanced Research Internships (Hardware/AI/Quantum)
+  - Systems Architecture & High-Performance Engineering Roles
+  - High-Stakes Algorithmic & Hackathon Collaborations
 ```
 
 ---
 
-## Connect With Me
+### 🌐 Direct Transmission Channels
 
 <div align="center">
 
-<a href="mailto:bhargav.vemparala@gmail.com"><img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="mailto:lakshmisaibhargav.v@students.iiit.ac.in"><img src="https://img.shields.io/badge/Academic%20Mail-0284C7?style=for-the-badge&logo=google-classroom&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://www.linkedin.com/in/bhargav-vemparala-b904293a0/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
-<a href="https://github.com/Analytic-Areis"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/></a>
+<a href="https://www.linkedin.com/in/bhargav-vemparala-b904293a0/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020c1b"/></a>
+&nbsp;
+<a href="mailto:bhargav.vemparala@gmail.com"><img src="https://img.shields.io/badge/Personal%20Mail-Transmit-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020c1b"/></a>
+&nbsp;
+<a href="mailto:lakshmisaibhargav.v@students.iiit.ac.in"><img src="https://img.shields.io/badge/IIIT--H%20Mail-Official-0284C7?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=020c1b"/></a>
+&nbsp;
+<a href="https://github.com/Analytic-Areis"><img src="https://img.shields.io/badge/GitHub-Follow-1e293b?style=for-the-badge&logo=github&logoColor=00f2ff&labelColor=020c1b"/></a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Engineering at the convergence of silicon reality, computational physics, and intelligent algorithmic agents."*
+*"Transforming high-order mathematical theory into sub-millisecond deterministic real-world execution."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2040,35:3b1366,70:1e1035,100:0a0a1a&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,35:004b5c,70:0a192f,100:020c1b&height=140&section=footer"/>
 
 </div>
